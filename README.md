@@ -1,4 +1,4 @@
-#Currency Converter Application
+# Currency Converter Application
 
 * @author Valdeta Demiri
 * Date Created: 2022
