@@ -1,8 +1,8 @@
 #Currency Converter Application
 
-@author Valdeta Demiri
-Date Created: 2022
-Programming Language: Java
+* @author Valdeta Demiri
+* Date Created: 2022
+* Programming Language: Java
  
 # About the Project
 
